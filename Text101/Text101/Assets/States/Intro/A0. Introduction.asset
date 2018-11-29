@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a0cd7160f2844f25be7c5facf6a6850, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to MAGA.\n\nThis is a choice based adventure. Be sure to Make
+    America Great Again, or you shall perish.\n\nAt each stage you will be asked to
+    select your answer using keys 1,2 or 3 on the\nkeyboard.\n\nIf at any point you
+    lack the grit to make a decision \n\x03press \"q\" to quit the game."
+  nextStates:
+  - {fileID: 11400000, guid: 4dbc82c48f4bb4ab8826c474d079b5da, type: 2}

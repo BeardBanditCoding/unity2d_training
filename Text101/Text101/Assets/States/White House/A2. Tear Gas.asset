@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a0cd7160f2844f25be7c5facf6a6850, type: 3}
+  m_Name: A2. Tear Gas
+  m_EditorClassIdentifier: 
+  storyText: 'Hooray! The borders have been closed and the wall is begining construction.
+
+
+    During the wall building there was a disaster. The vagrants are claiming we have
+    been destroying families with tear gas, and its offending people!
+
+
+    Could tell them to fuck off and they are lying...Or we can stop using gas and
+    allow them in the country!
+
+
+    1. Fuck off you heathens! (Republican)
+
+    2. Oh, were sorry come in and ruin our country! (Democrat)'
+  nextStates:
+  - {fileID: 11400000, guid: c528e342596be48f6b457608a78fdd0e, type: 2}
+  - {fileID: 11400000, guid: b8e8f7734fab745ddb37795663fc9192, type: 2}
